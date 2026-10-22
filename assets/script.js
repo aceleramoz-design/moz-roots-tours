@@ -115,7 +115,7 @@ const PACKAGES = [
       desc: "Sail a traditional dhow through the Inhambane Bay mangroves on a relaxed afternoon, ending with an unforgettable sunset, with a local guide who knows the area well.",
       highlights: ["Tour through the Inhambane Bay mangroves", "Sunset in an incredible spot", "Birdwatching", "Relaxed, calm sailing", "Local community guide", "Great for photos"]
     },
-    images: ["assets/images/Sunset mangrove2.jpg", "assets/images/Sunset mangrove4.jpg", "assets/images/Sunset mangrove5.jpg", "assets/images/Sunset mangrove6.jpg", "assets/images/Sunset mangrove7.jpg", "assets/images/Sunset mangrove8.jpg", "assets/images/Sunset mangrove9.jpeg", "assets/images/Sunset mangrove10.jpeg", "assets/images/Sunset mangrove.jpeg11"]
+    images: ["assets/images/Sunset mangrove2.jpg", "assets/images/Sunset mangrove4.jpg", "assets/images/Sunset mangrove5.jpg", "assets/images/Sunset mangrove6.jpg", "assets/images/Sunset mangrove7.jpg", "assets/images/Sunset mangrove9.jpeg", "assets/images/Sunset mangrove10.jpeg", "assets/images/Sunset mangrove11.jpeg"]
   },
   {
     id: "kayak",
@@ -179,7 +179,7 @@ const PACKAGES = [
       desc: "Enjoy an unforgettable experience exploring the beautiful landscapes of Tofo on horseback! Follow natural trails and the coastline, enjoying the scenery, the beach and the tranquil atmosphere.",
       highlights: ["Horse ride through nature and along the coast", "Beautiful views of the beach and Tofo's landscapes", "Guided experience", "Close interaction with the horses", "Perfect photo opportunities", "Fun for beginners and experienced riders"]
     },
-    images: ["assets/images/HORSE RIDE.jpg", "assets/images/HORSE RIDE1.jpg", "assets/images/HORSE RIDE2.jpg", "assets/images/HORSE RIDE4.jpg", "assets/images/HORSE RIDE5.jpg", "assets/images/HORSE RIDE6.jpg", "assets/images/HORSE RIDE7.jpg"]
+    images: ["assets/images/HORSE RIDE.jpg", "assets/images/HORSE RIDE2.jpg", "assets/images/HORSE RIDE4.jpg", "assets/images/HORSE RIDE5.jpg", "assets/images/HORSE RIDE6.jpg", "assets/images/HORSE RIDE7.jpg"]
   },
   {
     id: "quads",
@@ -239,7 +239,7 @@ const PACKAGES = [
       desc: "An exciting 2-hour trip across the Indian Ocean to discover Tofo's incredible marine life: dolphins, whale sharks (seasonal) and manta rays (seasonal).",
       highlights: ["Watch dolphins in their natural habitat", "Swim/snorkel with whale sharks (seasonal)", "Encounter majestic manta rays (seasonal)", "Boat trip", "Professional guide", "Snorkelling equipment included", "Drinking water and safety briefing"]
     },
-    images: ["assets/images/Ocean safari.jpg", "assets/images/Ocean safari1.jpg", "assets/images/Ocean safari2.jpg", "assets/images/Ocean safari3.jpeg", "assets/images/Ocean safari4.jpeg", "assets/images/Ocean safari5.jpeg", "assets/images/Ocean safari6.jpeg", "assets/images/Ocean safari7.jpeg"]
+    images: ["assets/images/Ocean safari.jpg", "assets/images/Ocean safari1.jpg", "assets/images/Ocean safari2.jpg", "assets/images/ocean safari3.jpeg", "assets/images/ocean safari4.jpeg", "assets/images/ocean safari5.jpeg", "assets/images/ocean safari6.jpeg", "assets/images/ocean safari7.jpeg"]
   },
   {
     id: "whale-watching",
