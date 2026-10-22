@@ -4,6 +4,7 @@
 // "images" -> a primeira entrada é usada como imagem de destaque.
 // ---------------------------------------------------------------
 const WHATSAPP_NUMBER = "258845224658"; // +258 84 522 4658
+const SHOW_IMAGE_NAMES = true; // põe false para esconder os nomes quando acabares a manutenção
 
 const UI = {
   pt: {
@@ -326,6 +327,7 @@ function render() {
     img.src = src;
     img.alt = pkg.name;
     img.loading = "lazy";
+    img.dataset.filename = src.split("/").pop();
     img.addEventListener("click", () => openImageModal(pkg.images, pkg.images.indexOf(src), pkg.name));
     galleryEl.appendChild(img);
   });
@@ -482,3 +484,24 @@ document.querySelectorAll(".lang-btn").forEach(b => {
 document.getElementById("year").textContent = new Date().getFullYear();
 
 render();
+// Mostrar o nome do ficheiro ao passar o rato sobre uma imagem da galeria
+if (SHOW_IMAGE_NAMES) {
+  const nameTag = document.createElement("div");
+  nameTag.className = "img-name-tag";
+  document.body.appendChild(nameTag);
+
+  const galleryRoot = document.getElementById("gallery");
+  galleryRoot.addEventListener("mouseover", e => {
+    const name = e.target.dataset && e.target.dataset.filename;
+    if (!name) return;
+    nameTag.textContent = name;
+    nameTag.style.display = "block";
+  });
+  galleryRoot.addEventListener("mousemove", e => {
+    nameTag.style.left = (e.clientX + 14) + "px";
+    nameTag.style.top = (e.clientY + 14) + "px";
+  });
+  galleryRoot.addEventListener("mouseout", e => {
+    if (e.target.dataset && e.target.dataset.filename) nameTag.style.display = "none";
+  });
+}

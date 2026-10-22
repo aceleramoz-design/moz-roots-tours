@@ -510,3 +510,18 @@ button{font-family:inherit;}
 }
 .social-btn:hover{border-color:var(--gold);transform:translateY(-1px);}
 .social-btn svg{width:18px;height:18px;}
+/* ---------- Etiqueta com o nome do ficheiro (manutenção) ---------- */
+.img-name-tag{
+  position:fixed;
+  z-index:200;
+  display:none;
+  pointer-events:none;
+  background:rgba(28,26,21,0.92);
+  color:var(--white);
+  font-size:0.8rem;
+  font-weight:600;
+  padding:6px 10px;
+  border-radius:6px;
+  max-width:260px;
+  word-break:break-all;
+}
