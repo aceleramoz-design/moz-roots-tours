@@ -97,7 +97,7 @@ const PACKAGES = [
       desc: "Snorkel with our local guides and discover the marine life of the Inhambane estuary. The tour takes you to the seagrass meadows, home to the giraffe seahorse and a nursery for many unique species.",
       highlights: ["Snorkelling in the seagrass meadows", "Looking for the giraffe seahorse", "Tropical and juvenile fish", "Relaxing walk on Pansy Island", "Pansy shell hunting and scenic photos"]
     },
-    images: ["assets/images/Seahorse snorkeling.jpg", "assets/images/Seahorse snorkeling1.jpg", "assets/images/Seahorse snorkeling2.jpg", "assets/images/Seahorse snorkeling4.jpg", "assets/images/Seahorse snorkeling5.jpg", "assets/images/Seahorse snorkeling6.jpg", "assets/images/Seahorse snorkeling7.jpg", "assets/images/Seahorse snorkeling8.jpg", "assets/images/Seahorse snorkeling9.jpg", "assets/images/Seahorse snorkeling10.jpg", "assets/images/Seahorse snorkeling11.jpg"]
+    images: ["assets/images/Seahorse snorkeling.jpg", "assets/images/Seahorse snorkeling2.jpg", "assets/images/Seahorse snorkeling4.jpg", "assets/images/Seahorse snorkeling5.jpeg", "assets/images/Seahorse snorkeling6.jpeg", "assets/images/Seahorse snorkeling7.jpeg", "assets/images/Seahorse snorkeling8.jpeg", "assets/images/Seahorse snorkeling9.jpeg", "assets/images/Seahorse snorkeling10.jpeg", "assets/images/Seahorse snorkeling11.jpeg"]
   },
   {
     id: "mangrove-poente",
@@ -115,7 +115,7 @@ const PACKAGES = [
       desc: "Sail a traditional dhow through the Inhambane Bay mangroves on a relaxed afternoon, ending with an unforgettable sunset, with a local guide who knows the area well.",
       highlights: ["Tour through the Inhambane Bay mangroves", "Sunset in an incredible spot", "Birdwatching", "Relaxed, calm sailing", "Local community guide", "Great for photos"]
     },
-    images: ["assets/images/Sunset mangrove.jpg", "assets/images/Sunset mangrove1.jpg", "assets/images/Sunset mangrove2.jpg", "assets/images/Sunset mangrove3.jpg", "assets/images/Sunset mangrove4.jpg", "assets/images/Sunset mangrove5.jpg", "assets/images/Sunset mangrove6.jpg", "assets/images/Sunset mangrove7.jpg", "assets/images/Sunset mangrove8.jpg", "assets/images/Sunset mangrove9.jpg", "assets/images/Sunset mangrove10.jpg", "assets/images/Sunset mangrove.jpg11"]
+    images: ["assets/images/Sunset mangrove2.jpg", "assets/images/Sunset mangrove4.jpg", "assets/images/Sunset mangrove5.jpg", "assets/images/Sunset mangrove6.jpg", "assets/images/Sunset mangrove7.jpg", "assets/images/Sunset mangrove8.jpg", "assets/images/Sunset mangrove9.jpeg", "assets/images/Sunset mangrove10.jpeg", "assets/images/Sunset mangrove.jpeg11"]
   },
   {
     id: "kayak",
@@ -147,7 +147,7 @@ const PACKAGES = [
       desc: "Sail a traditional wooden boat across the waters of Barra to Pansy Island for an unforgettable experience in nature. Walk the island, spot starfish, collect shells, and swim in the crystal-clear waters of Barra.",
       highlights: ["Crossing by traditional sailing boat", "Island walk and exploration", "Starfish spotting (seasonal, tide-dependent)", "Shell collecting, respecting the environment", "Swimming in Barra's crystal-clear water"]
     },
-    images: ["assets/images/Pansy island uma.jpg", "assets/images/Pansy island uma1.jpg", "assets/images/Pansy island uma1.jpg", "assets/images/Pansy island uma2.jpg", "assets/images/Pansy island uma3.jpg", "assets/images/Pansy island uma4.jpg", "assets/images/Pansy island uma5.jpg", "assets/images/Pansy island uma6.jpg"]
+    images: ["assets/images/Pansy island uma.jpg", "assets/images/Pansy island uma1.jpg", "assets/images/Pansy island uma2.jpg", "assets/images/Pansy island uma3.jpg", "assets/images/Pansy island uma4.jpg", "assets/images/Pansy island uma5.jpg", "assets/images/Pansy island uma6.jpg"]
   },
   {
     id: "village-matapa",
@@ -162,7 +162,7 @@ const PACKAGES = [
       desc: "A walk through the village of Tofo for those who want to go beyond the beaches: walking through the community, hearing local stories and traditions, visiting a family at home, and learning to cook matapa, one of Mozambique's best-known dishes.",
       highlights: ["Community walk with local stories and traditions", "Home visit and time with a local family", "Hands-on matapa cooking with the community's women", "History, culture, food and community in one experience"]
     },
-    images: ["assets/images/Village tour.jpg", "assets/images/Village tour1.jpg", "assets/images/Village tour2.jpg", "assets/images/Village tour3.jpg", "assets/images/Village tour4.jpg", "assets/images/Village tour5.jpg", "assets/images/Village tour6.jpg", "assets/images/Village tour7.jpg", "assets/images/Village tour8.jpg", "assets/images/Village tour9.jpg", "assets/images/Village tour10.jpg", "assets/images/Village tour11.jpg", "assets/images/Village tour12.jpg", ]
+    images: ["assets/images/Village tour.jpg", "assets/images/Village tour1.jpg", "assets/images/Village tour2.jpg", "assets/images/Village tour3.jpg", "assets/images/Village tour4.jpeg", "assets/images/Village tour5.jpg", "assets/images/Village tour6.jpg", "assets/images/Village tour7.jpg", "assets/images/Village tour8.jpeg", "assets/images/Village tour9.jpeg", "assets/images/Village tour10.jpeg", "assets/images/Village tour11.jpeg", "assets/images/Village tour12.jpeg", ]
   },
   {
     id: "horse-ride",
@@ -179,7 +179,7 @@ const PACKAGES = [
       desc: "Enjoy an unforgettable experience exploring the beautiful landscapes of Tofo on horseback! Follow natural trails and the coastline, enjoying the scenery, the beach and the tranquil atmosphere.",
       highlights: ["Horse ride through nature and along the coast", "Beautiful views of the beach and Tofo's landscapes", "Guided experience", "Close interaction with the horses", "Perfect photo opportunities", "Fun for beginners and experienced riders"]
     },
-    images: ["assets/images/HORSE RIDE.jpg", "assets/images/HORSE RIDE1.jpg", "assets/images/HORSE RIDE2.jpg", "assets/images/HORSE RIDE3.jpg", "assets/images/HORSE RIDE4.jpg", "assets/images/HORSE RIDE5.jpg", "assets/images/HORSE RIDE6.jpg", "assets/images/HORSE RIDE7.jpg"]
+    images: ["assets/images/HORSE RIDE.jpg", "assets/images/HORSE RIDE1.jpg", "assets/images/HORSE RIDE2.jpg", "assets/images/HORSE RIDE4.jpg", "assets/images/HORSE RIDE5.jpg", "assets/images/HORSE RIDE6.jpg", "assets/images/HORSE RIDE7.jpg"]
   },
   {
     id: "quads",
@@ -196,7 +196,7 @@ const PACKAGES = [
       desc: "A quad bike adventure along the roads between Tofo and Barra: passing through the local community, the dunes along the way, and ending at Barra Beach to enjoy the sand and Mozambique's natural scenery.",
       highlights: ["Quad bike, fuel, cap and goggles included", "Local guide", "Passing through the community", "Dunes and Barra Beach"]
     },
-    images: ["assets/images/Quad bike safari.jpg", "assets/images/Quad bike safari1.jpg", "assets/images/Quad bike safari2.jpg", "assets/images/Quad bike safari3.jpg", "assets/images/Quad bike safari4.jpg"]
+    images: ["assets/images/Quad bike safari.jpg", "assets/images/Quad bike safari1.jpg", "assets/images/Quad bike safari2.jpg", "assets/images/Quad bike safari3.jpg", "assets/images/Quad bike safari4.jpeg"]
   },
   {
     id: "city-tour",
@@ -239,7 +239,7 @@ const PACKAGES = [
       desc: "An exciting 2-hour trip across the Indian Ocean to discover Tofo's incredible marine life: dolphins, whale sharks (seasonal) and manta rays (seasonal).",
       highlights: ["Watch dolphins in their natural habitat", "Swim/snorkel with whale sharks (seasonal)", "Encounter majestic manta rays (seasonal)", "Boat trip", "Professional guide", "Snorkelling equipment included", "Drinking water and safety briefing"]
     },
-    images: ["assets/images/Ocean safari.jpg", "assets/images/Ocean safari1.jpg", "assets/images/Ocean safari2.jpg", "assets/images/Ocean safari3.jpg", "assets/images/Ocean safari4.jpg", "assets/images/Ocean safari5.jpg", "assets/images/Ocean safari6.jpg", "assets/images/Ocean safari7.jpg"]
+    images: ["assets/images/Ocean safari.jpg", "assets/images/Ocean safari1.jpg", "assets/images/Ocean safari2.jpg", "assets/images/Ocean safari3.jpeg", "assets/images/Ocean safari4.jpeg", "assets/images/Ocean safari5.jpeg", "assets/images/Ocean safari6.jpeg", "assets/images/Ocean safari7.jpeg"]
   },
   {
     id: "whale-watching",
@@ -256,7 +256,7 @@ const PACKAGES = [
       desc: "A meeting with the giants of the ocean that will stay with you forever. We head offshore in search of majestic whales, to observe their behaviour and, with luck, see them up close — always respecting nature and sea conditions.",
       highlights: ["3 to 4 hours of offshore adventure", "Whale watching with insights into their behaviour", "Chance to swim with the whales, conditions permitting", "Experienced guides, respectful of nature"]
     },
-    images: ["assets/images/baleia-salto-barco.jpg", "assets/images/baleia-cauda-poente.jpg", "assets/images/baleia-salto.jpg", "assets/images/baleia-aerea.jpg"]
+    images: ["assets/images/baleia-cauda-poente.jpg", "assets/images/baleia-salto.jpg", "assets/images/baleia-aerea.jpg"]
   }
 ];
 
